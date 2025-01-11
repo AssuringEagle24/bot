@@ -2,7 +2,7 @@ import telebot
 from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton
 
 # Замените на токен вашего бота от BotFather
-TELEGRAM_BOT_TOKEN = "TELEGRAM_BOT_TOKEN"
+TELEGRAM_BOT_TOKEN = "7654011248:AAHr_1UPzZ0ySPhiqriBAEW21UJvKYYfdi4"
 
 # Ссылка на ваш Telegram Mini App
 MINI_APP_URL = "MINI_APP_URL"
